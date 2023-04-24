@@ -12,6 +12,7 @@ This PowerShell script is used to onboard Windows servers to Azure using Azure A
 - Azure subscription
 - Azure Resource Manager service endpoint
 - Azure AD service principal
+- Azure Tenant Information
 
 ## Usage
 
